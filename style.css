@@ -1,0 +1,65 @@
+header{
+    color: red;
+    background-color: blue;
+    height: 300px;
+}
+article{
+    background-color: white;
+    height: 500px;
+}
+footer{
+    background-color: blueviolet;
+    height: 300px;
+}
+td{
+    width: 75px;
+    height: 20px;
+}
+#geel{
+    background-color: yellow;
+}
+#blauw{
+    background-color: blue;
+}
+#groen{
+    background-color: green;
+}
+#paars{
+    background-color: purple;
+}
+#roze{
+    background-color: pink;
+}
+#lime{
+    background-color: lime;
+}
+#oranje{
+    background-color: orange;
+}
+#rood{
+    background-color: red;
+}
+#wit{
+    background-color: white;
+}
+#zwart{
+    background-color: black;
+}
+#bruin{
+    background-color: brown;
+}
+#lichtblauw{
+    background-color: lightblue;
+}
+#magenta{
+    background-color: magenta;
+}
+#cyaan{
+    background-color: cyan;
+}
+#donkerrood{
+    background-color: darkred;
+}
+#lichtgroen{
+    background-color: lightgreen;
+}
